@@ -26,17 +26,7 @@ var c = i%5 == 0;
 	else 
 		
 	$('#list').append('<li class="numbers"> <span>' + i + '</span> </li>');	
-
-	
  
-
 }
-
-
-
-	
-
-//$('#list').append('<li class="numbers"> <span>' + ryan + '</span> </li>');
-
 
 });
