@@ -20,23 +20,9 @@ var c = i%5 == 0;
 	{
 	$('#list').append('<li class="numbers"> <span>' + "Buzz" + '</span> </li>');
 	}
-
-	
-
 	else 
 		
 	$('#list').append('<li class="numbers"> <span>' + i + '</span> </li>');	
-
-	
- 
-
 }
-
-
-
-	
-
-//$('#list').append('<li class="numbers"> <span>' + ryan + '</span> </li>');
-
 
 });
